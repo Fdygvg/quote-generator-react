@@ -1,0 +1,30 @@
+body{
+  background: linear-gradient(to top, blue, rgb(255, 255, 255)) no-repeat center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.quoteBox{
+  border: 10px black ridge;
+  margin-top: -150px;
+  height: 150px;
+  width:  400px;
+  border-radius: 10px;
+}
+
+.generateQuoteBtn {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+height: 50px;
+width: 100px;
+border-radius: 10px;
+font-weight: bold;
+font-size: 15px;
+color: blue;
+}
+
